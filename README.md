@@ -10,6 +10,8 @@ Bash command:
 git clone https://github.com/wrong89/test-assignment.git && cd test-assignment && docker-compose up --build
 ```
 
+Когда приложение успешно запустится app выведет: `SERVER_ADDRESS  :8080`
+
 ## Описание проекта
 
 Это сервис на Go для управления балансами пользователей и созданием выводов средств (`withdrawals`).  
